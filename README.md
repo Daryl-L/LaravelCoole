@@ -1,2 +1,2 @@
 # LaravelCoole
-A plugin which put Laravel into Swoole.
+A plugin which puts Laravel into Swoole.
